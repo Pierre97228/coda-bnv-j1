@@ -1,0 +1,3 @@
+mkdir marvel/avengers
+cp marvel/iron_max.txt && cp marvel/captain_america.txt marvel/avengers
+

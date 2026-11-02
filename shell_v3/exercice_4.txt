@@ -1,0 +1,2 @@
+mkdir dc/justice_league
+cp dc/batman.txt dc/superman.txt dc/justice_league
